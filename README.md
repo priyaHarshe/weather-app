@@ -36,15 +36,32 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/your-username/weather-app.git
+git clone https://github.com/priyaHarshe/weather-app.git
 Navigate to the project directory:
 
 bash
 Copy code
 cd weather-app
+
+Note: we need API key from
+
 Run the weather.py file:
 
 bash
 Copy code
 python weather.py
 The GUI window will open. Enter a city name in the text box and click the "Search" button to get the weather information. Click the "Info" button to learn more about the PM Accelerator program.
+
+
+Project Structure
+weather.py: Main Python script containing the code for the weather app.
+README.md: Documentation file you are currently reading.
+
+About the Developer
+This project was developed by Priya Harshe as a demonstration of Python's GUI capabilities and integration with external APIs.
+
+Acknowledgements
+OpenWeatherMap for providing the weather data.
+ttkbootstrap for the modern styling of the Tkinter GUI.
+Python for being an awesome language to work with.
+
