@@ -43,8 +43,6 @@ bash
 Copy code
 cd weather-app
 
-Note: we need API key from
-
 Run the weather.py file:
 
 bash
